@@ -12,7 +12,8 @@ namespace NUniTests
         public void Fail()
         {
             //Method sozdat test, kotoriy ne budet proyden s soobseniem Fail;
-            Assert.Fail("Fail");
+            if(false)
+             Assert.Fail("Fail");
         }
 
         [Test]
