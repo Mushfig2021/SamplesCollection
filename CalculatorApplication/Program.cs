@@ -4,6 +4,7 @@ namespace CalculatorApplication
 {
     internal class Program
     {
+        //https://www.youtube.com/watch?v=BO2C5qAyl4w
         static void Main(string[] args)
         {
             try
