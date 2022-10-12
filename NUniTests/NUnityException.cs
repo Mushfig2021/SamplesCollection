@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace NUniTests
 {
-    public class NUnityException
-    {
+    //public class NUnityException
+    //{
         //Metod testa pomecenniy atribut ExpectedException budet proyden
         //tolko toqda 
         //koqda v nevo tele budet obnorujena isklyucitelnaya situaciya
@@ -17,5 +17,5 @@ namespace NUniTests
     //    [Test]
     //    [ExpectedException(typeof(DivideByZeroException), noExceptionMessage: "Can't divide zero")]
     //    public static void TestCalculatorDiviveByZero() => new Calculator().Div(1, 0);
-    }
+    //}
 }
